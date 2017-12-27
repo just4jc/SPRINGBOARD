@@ -1,2 +1,4 @@
-# SPB_Excersises
-This repo contains code for Data Wrangling, Data Story telling
+# SpringBoard - Intermediate DataScience with Python
+This repo contains Projects done as part of Springboard's Intermediate Data science with Python.
+
+#Data Wrangling - Hands on with getting meaningful data from JSON format files.

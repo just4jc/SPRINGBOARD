@@ -5,5 +5,8 @@ This repository contains all Projects and excersises done as part of Springboard
 
 ## Contents
 
-1.) Course_Work_Excersises - [Hands on with getting meaningful data from JSON format files]()
-2.) Capstone_Project - [Contains Jupyter notebooks(Code & reports) and data relevant to the capstone project]()
+1.) [Course_Work_Excersises - Hands on with getting meaningful data from JSON format files]
+()
+
+2.)[Capstone_Project - Contains Jupyter notebooks(Code & reports) and data relevant to the capstone project]
+()

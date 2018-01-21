@@ -1,3 +1,7 @@
 This Folder Contains Data relevant to Capstone Project
 
 1.  Capstone_Project_Proposal - Jupyter Notebook having details of problem statement, Business Client of the problem. How the problem is solved by data analysis & Machine Learning models.
+
+2.  Data_StoryTelling_EDA - This notebook tells about Exploratory Data Analysis and story telling part.
+
+3.  Data_Wrangling  - This jupyter notebook has code to extract the data from different .csv files, performed merge/join operations to get clean data for further analysis.

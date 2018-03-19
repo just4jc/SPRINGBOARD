@@ -5,3 +5,8 @@ This Folder Contains Data relevant to Capstone Project
 2.  Data_StoryTelling_EDA - This notebook tells about Exploratory Data Analysis and story telling part.
 
 3.  Data_Wrangling  - This jupyter notebook has code to extract the data from different .csv files, performed merge/join operations to get clean data for further analysis.
+
+4.  Inferential_Statistics - Applying inferential statistics in comparing means of two independent populations ( to analyze preferred food genre in population Izakaya / Other genre)
+
+5.  BaseLine_LinearRegression - Basic Linear Regression model as baseline with Root Mean Squared Error as 0.568
+
